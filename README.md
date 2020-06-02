@@ -1,3 +1,14 @@
+npm i -g create-react-app && create-react-app react-star-game
+
+
+npx create-react-app react-star-game
+
+npm run eject  => eject react abstraction
+
+
+jscomplete.com/reactful  = barebone creating app 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
